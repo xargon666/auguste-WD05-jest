@@ -21,6 +21,12 @@ add to json.package...
 if you have jest installed globally...
 `jest`
 
+## making test files
+by convention name test files as:
+<filename>.test.js
+
++++
+
 example js file - sum.js
 ```js
 module.exports = function_name;
@@ -42,3 +48,12 @@ describe('sum', callback() => {
     expect(sum(2,3).toEqual(5))
 })
 ```
+
+### Main matchers
+toBe 
+notToBe
+truthiness
+toMatch
+toContain
+toThrow
+
