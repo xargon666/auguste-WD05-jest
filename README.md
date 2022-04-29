@@ -1,6 +1,8 @@
 How to Test
 ===========
 
+Some practice using jest!
+
 ## install jest
 npm init -y
 npm install <package_name> <=> npi i <package_name>
@@ -15,6 +17,9 @@ add to json.package...
 
 ## to run script
 `npm test` or `npm run test`
+
+if you have jest installed globally...
+`jest`
 
 example js file - sum.js
 ```js
