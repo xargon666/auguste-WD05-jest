@@ -1,0 +1,16 @@
+{
+  "name": "auguste-wud05-jest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cowsay": "^1.5.0",
+    "jest": "^28.0.3"
+  }
+}
